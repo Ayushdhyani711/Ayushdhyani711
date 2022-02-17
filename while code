@@ -2,3 +2,32 @@ a=1
 while a<=10:
     print(a)
     a+=1
+     
+     
+     
+     
+     #2nd pro
+    
+    a=2
+while a<=8:
+    print(a)
+    a+=1   
+    
+    
+    
+    3rd pro
+        
+  a=5
+while a<10:
+    print(a)
+    a+=1
+    
+    
+ 4th pro
+ 
+ a=1
+while a<=10:
+    print(a)
+    a+=1
+    
+print("outside loop")
