@@ -1,0 +1,10 @@
+first ="Ayush"
+last = "Dhyani"
+
+re1="thanks what about u"
+re2='i am also pretty good'
+#print('hi',first,last,'how are you?')
+print('hi {} {}  how are you?'.format(first,last))
+print('hi {} {}  {} how are you?'.format(re,re1,re2))
+
+print('thanks dude. ')
