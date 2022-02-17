@@ -1,0 +1,7 @@
+a=int(input("enter the number"))
+d=int(input("enter the number"))
+c=int(input("enter the number"))
+b=1
+while (b<=10):
+    print("{}*{}={},   {}*{}={},    {}*{}={}".format(a,b,a*b,    d,b,d*b,   c,b,c*b))
+    b+=1
